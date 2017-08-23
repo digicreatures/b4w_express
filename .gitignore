@@ -1,0 +1,5 @@
+preprod
+build
+*\.gz
+*\.dds
+*\.blend1

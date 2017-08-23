@@ -1,0 +1,28 @@
+[info]
+author = David Gayerie
+icon = 
+name = b4w_express
+title = Blend4Web Express
+
+[paths]
+assets_dirs = projects/b4w_express/assets;
+blend_dirs = projects/b4w_express/blender;
+blender_exec = blender
+build_dir = projects/b4w_express/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = False
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
