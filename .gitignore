@@ -3,3 +3,8 @@ build
 *\.gz
 *\.dds
 *\.blend1
+*\.min50.jpg
+*\.min50.png
+*\.m4a
+assets/b4w_express.bin
+assets/b4w_express.json
